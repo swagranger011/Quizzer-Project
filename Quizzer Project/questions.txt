@@ -1,0 +1,22 @@
+QUESTION_BEGIN
+QUESTION
+What is 2+2?
+ANSWER
+4
+QUESTION_END
+
+
+QUESTION_BEGIN
+QUESTION
+What is the capital of Kansas?
+ANSWER
+Topeka
+QUESTION_END
+
+
+QUESTION_BEGIN
+QUESTION
+Is pineapple great on pizza?
+ANSWER
+yes
+QUESTION_END
